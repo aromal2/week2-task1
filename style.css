@@ -1,0 +1,21 @@
+
+.me-2.fs-6{
+    font-family: Trade Gothic Condensed;
+}
+.bi bi-twitter{
+    padding-left: 10%;
+
+}
+.card-img-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 28px;
+    left: 0;
+    padding: var(--bs-card-img-overlay-padding);
+    border-radius: var(--bs-card-inner-border-radius);
+}
+card text-bg-dark{
+
+    height: 50rem;
+}
